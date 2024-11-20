@@ -1,0 +1,67 @@
+/Users/damon.bruce/Source/Demo Project/API/demo-api/bin/Debug/net8.0/appsettings.Development.json
+/Users/damon.bruce/Source/Demo Project/API/demo-api/bin/Debug/net8.0/appsettings.json
+/Users/damon.bruce/Source/Demo Project/API/demo-api/bin/Debug/net8.0/demo-api
+/Users/damon.bruce/Source/Demo Project/API/demo-api/bin/Debug/net8.0/demo-api.deps.json
+/Users/damon.bruce/Source/Demo Project/API/demo-api/bin/Debug/net8.0/demo-api.runtimeconfig.json
+/Users/damon.bruce/Source/Demo Project/API/demo-api/bin/Debug/net8.0/demo-api.dll
+/Users/damon.bruce/Source/Demo Project/API/demo-api/bin/Debug/net8.0/demo-api.pdb
+/Users/damon.bruce/Source/Demo Project/API/demo-api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/damon.bruce/Source/Demo Project/API/demo-api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/damon.bruce/Source/Demo Project/API/demo-api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/damon.bruce/Source/Demo Project/API/demo-api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/damon.bruce/Source/Demo Project/API/demo-api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/demo-api.csproj.AssemblyReference.cache
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/demo-api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/demo-api.AssemblyInfoInputs.cache
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/demo-api.AssemblyInfo.cs
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/demo-api.csproj.CoreCompileInputs.cache
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/demo-api.MvcApplicationPartsAssemblyInfo.cs
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/demo-api.MvcApplicationPartsAssemblyInfo.cache
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/staticwebassets.build.json
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/staticwebassets.development.json
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/staticwebassets/msbuild.demo-api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/staticwebassets/msbuild.build.demo-api.props
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.demo-api.props
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.demo-api.props
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/scopedcss/bundle/demo-api.styles.css
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/demo-api.csproj.Up2Date
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/demo-api.dll
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/refint/demo-api.dll
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/demo-api.pdb
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/demo-api.genruntimeconfig.cache
+/Users/damon.bruce/Source/Demo Project/API/demo-api/obj/Debug/net8.0/ref/demo-api.dll
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/bin/Debug/net8.0/appsettings.Development.json
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/bin/Debug/net8.0/appsettings.json
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/bin/Debug/net8.0/demo-api
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/bin/Debug/net8.0/demo-api.deps.json
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/bin/Debug/net8.0/demo-api.runtimeconfig.json
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/bin/Debug/net8.0/demo-api.dll
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/bin/Debug/net8.0/demo-api.pdb
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/demo-api.csproj.AssemblyReference.cache
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/demo-api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/demo-api.AssemblyInfoInputs.cache
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/demo-api.AssemblyInfo.cs
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/demo-api.csproj.CoreCompileInputs.cache
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/demo-api.MvcApplicationPartsAssemblyInfo.cs
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/demo-api.MvcApplicationPartsAssemblyInfo.cache
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/demo-api.sourcelink.json
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/staticwebassets.build.json
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/staticwebassets.development.json
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/staticwebassets/msbuild.demo-api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/staticwebassets/msbuild.build.demo-api.props
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.demo-api.props
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.demo-api.props
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/scopedcss/bundle/demo-api.styles.css
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/demo-api.csproj.Up2Date
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/demo-api.dll
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/refint/demo-api.dll
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/demo-api.pdb
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/demo-api.genruntimeconfig.cache
+/Users/damon.bruce/Source/Sample DDD/DDD Sample/API/demo-api/obj/Debug/net8.0/ref/demo-api.dll
